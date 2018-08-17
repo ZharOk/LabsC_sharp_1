@@ -1,0 +1,11 @@
+C:\Users\Dimka\Desktop\New folder\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe.config
+C:\Users\Dimka\Desktop\New folder\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe
+C:\Users\Dimka\Desktop\New folder\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.pdb
+C:\Users\Dimka\Desktop\New folder\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.exe
+C:\Users\Dimka\Desktop\New folder\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.pdb
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe.config
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.exe
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.pdb
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.exe
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\bin\Debug\Lab2CSharp.pdb
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab2CSharp\Lab2CSharp\obj\Debug\Lab2CSharp.csprojResolveAssemblyReference.cache

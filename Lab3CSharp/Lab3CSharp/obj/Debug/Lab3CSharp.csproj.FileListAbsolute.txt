@@ -1,0 +1,8 @@
+c:\users\dimka\documents\visual studio 2013\Projects\Lab3CSharp\Lab3CSharp\bin\Debug\Lab3CSharp.exe.config
+c:\users\dimka\documents\visual studio 2013\Projects\Lab3CSharp\Lab3CSharp\obj\Debug\Lab3CSharp.csprojResolveAssemblyReference.cache
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\bin\Debug\Lab3CSharp.exe.config
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\bin\Debug\Lab3CSharp.exe
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\bin\Debug\Lab3CSharp.pdb
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\obj\Debug\Lab3CSharp.csprojResolveAssemblyReference.cache
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\obj\Debug\Lab3CSharp.exe
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab3CSharp\Lab3CSharp\obj\Debug\Lab3CSharp.pdb

@@ -1,0 +1,12 @@
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\bin\Debug\Lab1CSharp.exe.config
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\bin\Debug\Lab1CSharp.exe
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\bin\Debug\Lab1CSharp.pdb
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.exe
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.pdb
+C:\Users\Dimka\Desktop\New folder\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.csprojResolveAssemblyReference.cache
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\bin\Debug\Lab1CSharp.exe.config
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.exe
+D:\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.pdb
+E:\Documents\Ucheba\S3\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\bin\Debug\Lab1CSharp.exe.config
+E:\Documents\Ucheba\S3\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.exe
+E:\Documents\Ucheba\S3\Semestr_3(ФІОТ)\C#_semestr3\LabsSharp\Lab1CSharp\Lab1CSharp\obj\Debug\Lab1CSharp.pdb
