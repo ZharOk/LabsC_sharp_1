@@ -1,0 +1,9 @@
+D:\Ucheba\C#\l1\Dop\Dop\bin\Debug\Dop.exe.config
+D:\Ucheba\C#\l1\Dop\Dop\bin\Debug\Dop.exe
+D:\Ucheba\C#\l1\Dop\Dop\bin\Debug\Dop.pdb
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.csprojResolveAssemblyReference.cache
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.Form1.resources
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.Properties.Resources.resources
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.csproj.GenerateResource.Cache
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.exe
+D:\Ucheba\C#\l1\Dop\Dop\obj\Debug\Dop.pdb

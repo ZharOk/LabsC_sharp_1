@@ -1,0 +1,9 @@
+D:\Ucheba\C#\l2\TestList\TestList\bin\Debug\TestList.exe.config
+D:\Ucheba\C#\l2\TestList\TestList\bin\Debug\TestList.exe
+D:\Ucheba\C#\l2\TestList\TestList\bin\Debug\TestList.pdb
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.Form1.resources
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.Properties.Resources.resources
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.csproj.GenerateResource.Cache
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.exe
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.pdb
+D:\Ucheba\C#\l2\TestList\TestList\obj\Debug\TestList.csprojResolveAssemblyReference.cache
